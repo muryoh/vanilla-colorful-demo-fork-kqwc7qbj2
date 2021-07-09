@@ -1,0 +1,7 @@
+{
+  "name": "@components-studio/muryoh.vanilla-colorful-demo-fork-kqwc7qbj",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx cso-cli serve igSKgUYNzjg8Y16LgWLc --open"
+  }
+}
